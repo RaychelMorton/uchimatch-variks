@@ -1,4 +1,4 @@
-# uchimatch-variks
+uchimatch-variks
 
    Решения или ответы могут содержать ошибки
 
